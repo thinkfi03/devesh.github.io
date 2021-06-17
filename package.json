@@ -1,8 +1,6 @@
 {
-  "author": {
-    "name": "Devesh Tipathi",
-    "email": "devesh10triapthi@gmail.com",
-  }
-  "version":"1.0"
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "A  project",
   
-}
+  }
