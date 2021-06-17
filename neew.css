@@ -126,7 +126,7 @@ height: 20px;
   display: inline-block;
   float: right;
   padding: 50px 20px 30px 20px;
-background: #FFFFFF;
+background: #7f94ff;
   color: #333333;
   margin-top: 50px;
   text-align: center;
@@ -517,4 +517,4 @@ background: #FFFFFF;
   }
 }
 .hobbies{
-  color: #3e4cc4; font-family: 'Raleway',sans-serif}
+  color: #000000; font-family: 'Raleway',sans-serif}
